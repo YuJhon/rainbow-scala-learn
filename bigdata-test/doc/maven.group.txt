@@ -1,0 +1,5 @@
+Archetype Group Id : net.alchim31.maven
+Archetype Artifact Id : scala-archetype-simple
+Archetype Version : 1.6
+//如果下载失败在添加Repository URL试试
+Repository URL : http://github.com/davidB/scala-archetype-simple
